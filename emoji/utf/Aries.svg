@@ -71,9 +71,9 @@ C+fozVgvn6M1YL5+jNWC+fozVgvn6M1YL5+jNWDve/5sn/toPv2/3H//2Q==' transform='matrix(
     </mask>
     <g style='mask:url(#SVGID_1_);'>
       <radialGradient id='SVGID_2_' cx='32.0000153' cy='36.2173004' r='26.21875' gradientUnits='userSpaceOnUse'>
-        <stop offset='0' style='stop-color:#BF0000'/>
-        <stop offset='0.715152' style='stop-color:#FFBFCA'/>
-        <stop offset='1' style='stop-color:#FF0009'/>
+        <stop offset='0' style='stop-color:#B00'/>
+        <stop offset='0.715152' style='stop-color:#FFCA'/>
+        <stop offset='1' style='stop-color:#FF0'/>
       </radialGradient>
       <circle style='fill:url(#SVGID_2_);' cx='32.0000153' cy='36.2168007' r='26.7011852'/>
     </g>
@@ -82,10 +82,10 @@ C+fozVgvn6M1YL5+jNWC+fozVgvn6M1YL5+jNWDve/5sn/toPv2/3H//2Q==' transform='matrix(
     <g>
       <radialGradient id='SVGID_3_' cx='26.8330307' cy='26.4690781' r='31.1687431' gradientUnits='userSpaceOnUse'>
         <stop offset='0' style='stop-color:#FF7F7F'/>
-        <stop offset='0.412121' style='stop-color:#DF0000'/>
-        <stop offset='0.4968462' style='stop-color:#DF000C'/>
-        <stop offset='0.581818' style='stop-color:#DF0010'/>
-        <stop offset='1' style='stop-color:#FF7F7F'/>
+        <stop offset='0.412121' style='stop-color:#DF00'/>
+        <stop offset='0.4968462' style='stop-color:#DF080C'/>
+        <stop offset='0.581818' style='stop-color:#D10'/>
+        <stop offset='1' style='stop-color:#3333'/>
       </radialGradient>
       <circle style='fill:url(#SVGID_3_);' cx='31.9999905' cy='28.8031998' r='26.9160099'/>
     </g>
@@ -172,6 +172,7 @@ cPdYroGc4e6xXQM5w91iugZzh7rFdAznD3WK6BmHKyP9v6c7+3/m/t/X8vt+R//Z' transform='mat
 		C37.9199219,21.6962891,33.5380859,26.8076172,33.3232422,45.6972656z'/>
   </g>
   <path style="opacity:0.14;fill:#FFFFFF;" d="M35.2294998,53.9844017c-10.3412991,1.6483994-20.35499-6.464901-15.8964901-7.6817017
+
 	c5.4867897-1.5,16.7050915,2.8964996,28.0273914-5.9257011C58.6825981,31.5562,54.3437996,50.9375,35.2294998,53.9844017z"/>
   <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="25.8269234" y1="7.1457033" x2="38.531311" y2="33.5388718">
     <stop offset='0' style='stop-color:#FFFFFF'/>
