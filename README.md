@@ -1,10 +1,10 @@
-emojidex-vectors [![Gem Version](https://badge.fury.io/rb/emojidex-vectors.svg)](https://badge.fury.io/rb/emojidex-vectors)
+emojib-vectors 
 ================
 
-Vector [SVG] emoji assets for emojidex
+Vector [SVG] emoji assets for emojib
 
 License
 =======
-emojidex and emojidex tools are licensed under the [emojidex Open License](https://www.emojidex.com/emojidex/emojidex_open_license).
+emojib and emojib tools are licensed under the [emojib Open License]
 
-©2025 the emojidex project / K.K. GenSouSha [Phantom Creation Inc.]
+©2025 the emojib project / K.K. GenSouSha [Phantom Creation Inc.]
